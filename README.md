@@ -3,6 +3,10 @@ The model is designed for use in simulations, animations, and as a teaching tool
 
 Look at the model here (OnShape): https://cad.onshape.com/documents/f7275f38198c893f65ef21c7/w/f9f9d6077812d630af195d0b/e/6e3a0303afd66355ab39676c?renderMode=0&uiState=66d5f313da1d9d4e7fcff136
 
+Final: 
+
+![Screenshot 2024-09-02 091836](https://github.com/user-attachments/assets/4cc11a98-aa9f-4764-9b56-f3995d325fc7)
+
 Process of modeling:
 
 ![Screenshot 2024-07-02 213939](https://github.com/user-attachments/assets/68c488f7-f01b-4709-adb0-4a4906d1f52a)
